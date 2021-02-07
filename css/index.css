@@ -2,28 +2,28 @@
 
 @font-face {
     font-family: 'octi_extra-bold';
-    src: url(font/Lato/Lato-Black.ttf);
+    src: url(/font/Lato/Lato-Black.ttf);
     font-weight: 800;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'octi_bold';
-    src: url(font/Lato/Lato-Bold.ttf);
+    src: url(/font/Lato/Lato-Bold.ttf);
     font-weight: 700;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'octi_semi_bold';
-    src: url(font/Lato/Lato-SemiBold.ttf);
+    src: url(/font/Lato/Lato-SemiBold.ttf);
     font-weight: 600;
     font-style: normal
 }
 
 @font-face {
     font-family: 'octi_semi_regular';
-    src: url(font/Lato/Lato-Regular.ttf);
+    src: url(/font/Lato/Lato-Regular.ttf);
     font-weight: 400;
     font-style: normal;
 }
